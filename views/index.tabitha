@@ -10,6 +10,10 @@
     <div id="app">
       <h1>#title#</h1>
       <div>#content#</div>
+      <img src="/pexels-quang-nguyen-vinh-2132087.jpg" width="300" alt="Image">
+      <form action="/download" method="GET">
+        <button type="submit">Download Image</button>
+      </form>
     </div>
   </body>
 </html>
